@@ -351,22 +351,6 @@ a {
   font-size:21px;
   color:#c5a45c
 }
-.art-caption {
-  position:absolute;
-  left:-1%;
-  bottom:43px;
-  display:flex;
-  align-items:center;
-  gap:9px;
-  font-size:7px;
-  letter-spacing:1.1px;
-  color:#8b7c70;
-  line-height:1.6
-}
-.caption-star {
-  font-size:23px;
-  color:#d93d87
-}
 .art-sticker {
   position:absolute;
   right:-2%;
@@ -442,17 +426,6 @@ a {
   line-height:1.8;
   color:#79736d;
   margin:0 0 4px
-}
-.pricing-note {
-  margin:27px 0 0;
-  font-size:16px;
-  font-weight:700;
-  line-height:1.65;
-  color:#15264a
-}
-.pricing-note span {
-  color:#d93d87;
-  margin-right:8px
 }
 .service-grid {
   display:grid;
@@ -1215,10 +1188,6 @@ a {
     width:445px;
     height:360px
   }
-  .art-caption {
-    left:-4%;
-    bottom:5px
-  }
   .art-sticker {
     right:-3%;
     bottom:1px
@@ -1248,17 +1217,6 @@ a {
   .section-lede {
     margin-top:19px;
     font-size:12px
-  }
-  .pricing-note {
-    margin:27px 0 0;
-    font-size:16px;
-    font-weight:700;
-    line-height:1.65;
-    color:#15264a
-  }
-  .pricing-note span {
-    color:#d93d87;
-    margin-right:8px
   }
   .service-grid {
     grid-template-columns:1fr;
